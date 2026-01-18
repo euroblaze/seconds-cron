@@ -1,4 +1,4 @@
-# Cron Firing Interval in Seconds 🚀
+# SA Firing Interval in Seconds 🚀
 
 Odoo 18 module for sub-minute scheduled actions.
 
